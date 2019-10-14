@@ -30,6 +30,3 @@ def nthPrime(n):
     
 print(nthPrime(10001))
 print('Time elapsed:', (time.time() - start), 'seconds')
-    
-
-
