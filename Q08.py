@@ -26,5 +26,3 @@ for i in range(len(num)):
 print('Adjacent digits:', [int(d) for d in str(seq[-1])])
 print('Product:', ans)
 print('Time elapsed:', (time.time() - start), 'seconds')
-
-
