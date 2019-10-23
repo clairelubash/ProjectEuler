@@ -2,7 +2,6 @@
 
 # How many routes are there to the bottotm right corner through a 20x20 grid?
 
-
 import time
 from math import factorial
 
