@@ -2,7 +2,6 @@
 
 # How many Sundays fell on the first of the month during the twentieth century?
 
-
 import time
 from datetime import date
 
