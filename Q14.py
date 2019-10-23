@@ -2,7 +2,6 @@
 
 # Which starting number, under one million, produces the longest Collatz chain?
 
-
 import time
 
 def coll(n):
