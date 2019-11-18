@@ -6,7 +6,6 @@ import time
 
 start = time.time()
 
-
 def primes(n):
 
     ''' implementation of the Sieve of Eratosthenes method which returns a
