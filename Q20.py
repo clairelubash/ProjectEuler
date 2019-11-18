@@ -2,6 +2,7 @@
 
 # Find the sum of the digits in the number 100!
 
+
 import time
 from math import factorial
 
