@@ -17,4 +17,3 @@ def num_to_word(n):
 
 print(num_to_word(1000))
 print('Time Elapsed:', time.perf_counter(), 'seconds')
-
