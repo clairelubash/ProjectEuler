@@ -7,16 +7,13 @@
 
 # What is the millionth lexicographic permutation of the digits 0, 1, 2, 3, 4, 5, 6, 7, 8 and 9?
 
-
 import time
 from itertools import permutations
 
 p = permutations([0,1,2,3,4,5,6,7,8,9])
 
 for count, item in enumerate(p):
-    
     if count == 999999:
-        
         ans = ''.join(str(i) for i in item)
         print(ans)
 
