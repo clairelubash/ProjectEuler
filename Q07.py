@@ -2,7 +2,6 @@
 
 # What is the 10001st prime number?
 
-
 import time
 
 start = time.time()
