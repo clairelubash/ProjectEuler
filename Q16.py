@@ -5,9 +5,7 @@
 import time
 
 def solve(n):
-
     exp = list(str(2**n))
-
     return(sum([int(i) for i in exp]))
 
 print(solve(1000))
