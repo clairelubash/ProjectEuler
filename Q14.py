@@ -10,8 +10,7 @@ def coll(n):
         return 0
     c = 1
     
-    while n > 1:
-        
+    while n > 1:  
         if n%2 == 0:
             n = n/2
         else:
@@ -24,7 +23,6 @@ x = 0
 ans = 0
 
 for i in range(1000001):
-    
     c = coll(i)
     
     if c > x:
