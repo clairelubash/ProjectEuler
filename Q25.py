@@ -7,7 +7,6 @@
 
 # What is the index of the first term in the Fibonacci sequence to contain 1000 digits?
 
-
 import time
 
 def fib(n):
@@ -16,7 +15,6 @@ def fib(n):
     index = 1
 
     while len(str(a)) < n:
-
         index += 1
         a, b = b, a + b
 
