@@ -1,6 +1,7 @@
 # Project Euler - Question 15
 
-# Starting in the top left corner of a 2×2 grid, and only being able to move to the right and down, how many routes are there to the bottotm right corner through a 20x20 grid?
+# Starting in the top left corner of a 2×2 grid, and only being able to move to the right and down, how many routes
+# are there to the bottotm right corner through a 20x20 grid?
 
 import time
 from math import factorial
