@@ -11,7 +11,7 @@ start = time.time()
 def is_prime(k):
 
     '''
-    checks if number is prime and returns boolean
+    checks if number is prime
     '''
 
     if k < 2:
